@@ -47,3 +47,20 @@ docker compose up --build
 | Frontend | http://localhost:5173  |
 | Backend  | http://localhost:5000  |
 | Postgres | localhost:5432         |
+
+## Screenshots
+
+### Register Page
+![Register Page](./RegisterPage.png)
+
+### People List
+![People List](./PeopleList.png)
+
+### Registered Successfully
+![Registered Successfully](./Registered.png)
+
+### Edit People List
+![Edit People List](./EditPeopleList.png)
+
+### Duplicate Email Error
+![Duplicate Email Error](./Duplicate.png)
